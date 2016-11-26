@@ -12,20 +12,20 @@ version 3 of the License, or (at your option) any later version.
 
 
 USAGE: 
->Open remap.bat in text editor
->Set the value of SECONDVALUE to be the number of seconds you want the script to repeat
->Set the value of KEEPRUNNING to run the script indefinitely (Probably set to 1)
->Save
->Drag the files into startup folder of target PC 
+*Open remap.bat in text editor
+*Set the value of SECONDVALUE to be the number of seconds you want the script to repeat
+*Set the value of KEEPRUNNING to run the script indefinitely (Probably set to 1)
+*Save
+*Drag the files into startup folder of target PC 
 
 
 TERMINATION:
->Open task manager
->Find cmd.exe process and end process
->Find AutoHotKey.exe process and end process
+*Open task manager
+*Find cmd.exe process and end process
+*Find AutoHotKey.exe process and end process
 
 
 INCLUDED FILES:
->map.ahk
->remap.bat
->enter.ahk
+*map.ahk
+*remap.bat
+*enter.ahk
