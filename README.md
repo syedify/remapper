@@ -13,11 +13,11 @@ version 3 of the License, or (at your option) any later version.
 
 ##USAGE: 
 * Open remap.bat in text editor
-* Set the value of SECONDVALUE to be the number of seconds you want the script to repeat
-* Set the value of KEEPRUNNING to run the script indefinitely (Probably set to 1)
+* Set the value of REPEAT_INTERVAL to be the number of seconds you want the script to repeat 
+* Set the value of REMAP_INTERVAL to be the duration of remapping event in seconds
+* Set the value of KEEP_RUNNING to run the script indefinitely (Probably set to 1)
 * Save
 * Drag the files into startup folder of target PC 
-
 
 ##TERMINATION:
 * Open task manager
