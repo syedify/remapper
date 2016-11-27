@@ -11,7 +11,7 @@ of the GNU General Public License as published by the Free Software Foundation; 
 version 3 of the License, or (at your option) any later version.
 
 ##INSTALLATION:
-* Download AutoHotkey from "https://autohotkey.com/docs/Tutorial.htm#s11"
+* Download AutoHotkey from "https://autohotkey.com/docs/Tutorial.htm#s11" VERSION AutoHotkey_1.1.24.03_setup
 * Copy the installation folder into ../remap/
 * Run setup.bat and install the AutoHotkey installer.
 
