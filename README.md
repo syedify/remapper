@@ -10,6 +10,10 @@ This program is free software; you can redistribute it and/or modify it under th
 of the GNU General Public License as published by the Free Software Foundation; either 
 version 3 of the License, or (at your option) any later version.
 
+##INSTALLATION:
+* Download AutoHotkey from "https://autohotkey.com/docs/Tutorial.htm#s11"
+* Copy the installation folder into ../remap/
+* Run setup.bat and install the AutoHotkey installer.
 
 ##USAGE: 
 * Open remap.bat in text editor
